@@ -4,7 +4,7 @@
 
     <application
         android:theme="@style/AppTheme">
-        <activity android:name="com.yushan.module_login.LoginActivity">
+        <activity android:name="com.yushan.module_login.activity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

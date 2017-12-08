@@ -1,4 +1,4 @@
-package com.yushan.module_login;
+package com.yushan.module_login.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
