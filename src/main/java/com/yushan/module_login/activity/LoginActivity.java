@@ -7,8 +7,8 @@ import android.widget.Toast;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
 import com.alibaba.android.arouter.launcher.ARouter;
-import com.yushan.gitmoudledemo.R;
 import com.yushan.lib_base.base.BaseActivity;
+import com.yushan.module_login.R;
 
 @Route(path = "/module_login/LoginActivity")
 public class LoginActivity extends BaseActivity {
