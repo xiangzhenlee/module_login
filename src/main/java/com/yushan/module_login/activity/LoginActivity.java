@@ -8,9 +8,10 @@ import android.widget.Toast;
 import com.alibaba.android.arouter.facade.annotation.Route;
 import com.alibaba.android.arouter.launcher.ARouter;
 import com.yushan.gitmoudledemo.R;
+import com.yushan.lib_base.base.BaseActivity;
 
 @Route(path = "/module_login/LoginActivity")
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
