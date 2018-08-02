@@ -25,5 +25,7 @@ public class LoginActivity extends BaseActivity {
                 ARouter.getInstance().build("/module_compete/CompeteActivity").navigation();
             }
         });
+
+
     }
 }
